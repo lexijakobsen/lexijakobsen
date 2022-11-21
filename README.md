@@ -1,4 +1,4 @@
-<h1>Hi, I'm Lexi! <br/><a href="https://github.com/joshmadakor1">Cybersecurity Student</a>, <a href="https://linkedin.com/in/elexa-j-469813236/"> 
+<h1>Hi, I'm Lexi! <br/><a href="https://github.com/lexijakobsen/lexijakobsen">Cybersecurity Student</a>, <a href="https://linkedin.com/in/elexa-j-469813236/"> 
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
